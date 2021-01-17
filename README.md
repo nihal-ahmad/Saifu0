@@ -36,6 +36,19 @@ My name is Saifur Rehman Khan and I'm a Computer Science student, Full Stack dev
   
 
 </a>   
+
+## 📫 How to reach me ...
+[saifurrahmankhankhan@gmail.com](saifurrahmankhankhan@gmail.com)
+
+[LinkedIn](https://www.linkedin.com/in/saifur-rehman-khan-5770a9172/)
+
+## Other Links
+[Resume](https://drive.google.com/file/d/18ThT9vF_ZbS5gegjYOBl0rTwGoJnfhUq/view?usp=sharing)
+
+[CodeForces](https://codeforces.com/profile/.Pain.)
+
+[CodeChef](https://www.codechef.com/users/saifu0)
+
 <!--
 **Saifu0/Saifu0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
