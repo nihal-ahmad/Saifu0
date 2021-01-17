@@ -1,4 +1,3 @@
-### Hi there 👋
 [![Header](https://github.com/Saifu0/Saifu0/blob/main/Saifur%20Rehman%20Khan.png "Header")](https://github.com/Saifu0/)
 
 # Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
